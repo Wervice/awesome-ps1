@@ -1,5 +1,5 @@
 # awesome-ps1
-A list of amazing PS1 shell prefixes for linux.
+A list of amazing PS1 shell prefixes for linux. Just copy the PS1 variable to your .bashrc file in your home folder.
 
 # 1. Aqua
 ```
